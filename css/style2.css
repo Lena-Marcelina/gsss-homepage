@@ -1,0 +1,31 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #fff8e1;
+    margin: 0;
+}
+
+nav {
+    background-color: #00695c;
+    padding: 10px;
+}
+
+nav a {
+    color: #ffffff;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+main {
+    padding: 25px;
+    background-color: #ffffff;
+}
+<style>
+  .zentriert {
+    text-align: center;      /* Horizontal zentrieren */
+    vertical-align: middle;  /* Vertikal zentrieren */
+  }
+  .zentriert img {
+    display: block;          /* Bild als Block, um Ränder zu zentrieren */
+    margin: 0 auto;          /* Zentriert das Bild horizontal */
+  }
+</style>
